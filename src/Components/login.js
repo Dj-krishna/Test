@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+/*import React, {Component} from 'react';
 import { BrowserRouter as Router, browseHistory, Switch, Route, Link } from "react-router-dom";
 
 function login(){
@@ -8,4 +8,4 @@ function login(){
     );
 }
 
-export default login
+export default login */
